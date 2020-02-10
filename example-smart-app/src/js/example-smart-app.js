@@ -83,7 +83,7 @@
       gender: {value: ''},
       birthdate: {value: ''},
       height: {value: ''},
-      weight: {value: '-1'},
+      weight: {value: ''},
       systolicbp: {value: ''},
       diastolicbp: {value: ''},
       ldl: {value: ''},
